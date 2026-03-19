@@ -1,0 +1,7 @@
+Link bài tập (vì >20mb em xin phép up lên drive): https://drive.google.com/file/d/1eEJSt-ju8crzK1mWuVYcRjlqMSNxBDEG/view?usp=sharing
+
+Nguồn dữ liệu: Một đường dẫn đến Kaggle (nền tảng dữ liệu khoa học): https://www.kaggle.com/datasets/tongpython/cat-and-dog
+
+Link github: https://github.com/o0myhomeland0o-code/TTNTvaHM
+
+Youtube: https://youtu.be/BXCDvM_3I80
